@@ -47,6 +47,13 @@ I am a seasoned **App Developer** with over **3 years of experience**, specializ
 - **Advanced React Native** for more complex UI/UX designs.
 - **Backend Development** to build full-stack applications.
 
+## 📊 GitHub Stats
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek7611&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek7611&layout=compact&theme=radical)
+
+
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abhishekg28)
