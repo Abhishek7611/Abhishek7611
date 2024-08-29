@@ -30,6 +30,9 @@ I am a seasoned **App Developer** with over **3 years of experience**, specializ
 - **Firebase** ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 - **Xcode** ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat)
 - **Android Development** ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
+- **iOS Development** ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=flat)
+- **REST API** ![REST API](https://img.shields.io/badge/-REST%20API-25D366?logo=api&logoColor=white&style=flat)
+
 
 ## 💼 Experience
 
