@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm [Abhishek]
+# 👋 Hi, I'm Abhishek
 
 ## 🚀 About Me
 
-I'm a passionate **React Native Developer** with over **3 years of experience** in building seamless and user-friendly mobile applications for both Android and iOS platforms. I thrive on turning ideas into reality using the latest technologies.
+I am a seasoned **App Developer** with over **3 years of experience**, specializing in mobile app development with a strong focus on **React Native**. I am dedicated to creating seamless and user-friendly applications for both Android and iOS platforms. My passion lies in overcoming challenges and harnessing the latest technologies to build innovative and high-quality apps.
 
 ## 🛠️ Skills
 
